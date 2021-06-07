@@ -1,1 +1,0 @@
-echo y & git push -u origin main 
