@@ -123,5 +123,5 @@ process.on('SIGINT', async () => {
     process.exit();
 });
 
-client.login('ODIzOTc5MTUyOTI2NDQxNDkz.YFosYg.HrBjhcnXDKc0-cKTM6fQJ_TAWCg');
+client.login('token here');
 
